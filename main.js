@@ -137,4 +137,4 @@ client.on('message', message => {
 
     }
 });
-client.login('ODE4NDk5NDI4ODI1Njk0Mjc4.YEY8_g.8m-8_-KCV-RoMtFN8kY3qB2lWiw');
+client.login('');
